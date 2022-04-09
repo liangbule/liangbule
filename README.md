@@ -9,13 +9,13 @@
 ## About
 `性格`: 性格直率 乐于交流
 
-`工作`:  在南京从事前端开发工作,目前公司所用技术栈`ReactNative`重构大型电商项目,目前已重构`Android` `IOS` `WEB` `WAP` `小程序`、很累`坑`很多。
+`工作`:  在南京从事前端开发工作,目前公司所用技术栈`ReactNative`重构大型电商项目,目前已重构`Android` `IOS` `WEB` `WAP` `小程序`、跨端应用。
 
 微信: `liangbule`
 
 QQ: `576865892`
 
-GitHub: [notbucai](https://github.com/liangbule)
+GitHub: [liangbule](https://github.com/liangbule)
 
 Email: [576865892@qq.com](mailto:576865892@qq.com)
 
