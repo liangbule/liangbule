@@ -9,17 +9,8 @@
 ## About
 `性格`: 性格直率 乐于交流
 
-`工作`:  在南京从事前端开发工作,目前公司所用技术栈`ReactNative`重构电商项目,目前已重构`Android` `IOS` `WEB` `WAP` `小程序`、跨端应用。
+`工作`:  `ReactNative`开发。
 
-微信: `liangbule`
-
-QQ: `576865892`
-
-GitHub: [liangbule](https://github.com/liangbule)
-
-Email: [576865892@qq.com](mailto:576865892@qq.com)
-
-Blog: [...暂无](https)
 
 ### 🛠 技术栈 | Tech Stack
 
